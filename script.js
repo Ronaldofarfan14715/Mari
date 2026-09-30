@@ -3,7 +3,7 @@ let increment = 50;
 
     let frases = [
         'Si <3!',
-        'Mariiiiiiiiiiiiii',
+        'Mariiiiiiii',
         'Mariiiiiiiiiii ya pues',
         'Te extraño uu ya pues',
         'Si, porfi amorcito'
